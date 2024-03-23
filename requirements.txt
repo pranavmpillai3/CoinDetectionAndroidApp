@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+kivy
+yolov8
+numpy
+torch
+supervision
